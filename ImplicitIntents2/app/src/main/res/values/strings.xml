@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">https://pinterest.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Taj Mahal</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\This is an awesome app</string>
+    <string name="button_share">Share This Text</string>
+</resources>
